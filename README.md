@@ -3,7 +3,7 @@ key browser matrix support for web considering the minimum version supported in 
 
 https://api.test.idnow.de/api/v1/ihrebank
 
-Note: The framework should support making requests for GET, POST, PUT and
+Note: The framework supports making requests for GET, POST, PUT and
 DELETE calls.
 
 2. Please take the attached ipa file and design a mobile automation framework to automate the following scenario.
